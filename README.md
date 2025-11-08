@@ -2,6 +2,8 @@
 hospital Management system using sql and dbms concepts 
 The Hospital Management System (HMS) is a Database Management System (DBMS) project designed to efficiently manage hospital operations such as patient registration, doctor management, appointments, billing, medications, and room allocation.
 It ensures smooth data flow between departments and provides reliable and secure storage of hospital records using SQL-based database management.
+
+
 👩‍⚕️ Patient Management
 
 Register and update patient details (personal info, contact, medical history)
